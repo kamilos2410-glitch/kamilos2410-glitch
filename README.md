@@ -1,47 +1,65 @@
 # Kamil Pietraszko
 
-I build websites and web apps for small businesses, mostly with React, TypeScript and Tailwind CSS. I run [SCS Web](https://scsweb.pl), a one-person studio that makes websites for local companies in Poland.
+Tworzę strony internetowe i aplikacje webowe dla małych firm, głównie w React, TypeScript i Tailwind CSS. Prowadzę [SCS Web](https://scsweb.pl) – jednoosobowe studio, które robi strony dla lokalnych firm.
 
-## Projects with public code
+## Projekty
 
-### Forma – personal health and training journal
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://forma-health-tracker.lovable.app"><img src="images/forma.jpg" alt="Forma – aplikacja do śledzenia zdrowia i treningów"></a>
+      <p><b>Forma</b> – aplikacja do śledzenia diety, treningów, pomiarów ciała i wyników badań. Każdy użytkownik ma własne, prywatne konto.</p>
+      <p><a href="https://forma-health-tracker.lovable.app">Demo</a> · <a href="https://github.com/kamilos2410-glitch/kamils-wellness-journey">Kod</a><br>
+      Konto demo: <code>demo@example.com</code> / <code>FormaDemo2026</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://scsweb.pl"><img src="images/scs-web.jpg" alt="SCS Web – strona studia"></a>
+      <p><b>SCS Web</b> – strona mojego studia: podstrony usług, branż i miast, przykładowe strony, kalkulator wyceny i formularz kontaktowy.</p>
+      <p><a href="https://scsweb.pl">Strona</a> · <a href="https://github.com/kamilos2410-glitch/polskie-strony-szybko">Kod</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://szkolniakigrojec.pl"><img src="images/szkolniaki.jpg" alt="SZKOLNIAKI – klub i sala zabaw w Grójcu"></a>
+      <p><b>SZKOLNIAKI</b> – strona klubu i sali zabaw dla dzieci w Grójcu: oferta, galeria zdjęć, mapa i formularz kontaktowy.</p>
+      <p><a href="https://szkolniakigrojec.pl">Strona</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dk-bud-kasiarz.lovable.app"><img src="images/dk-bud.jpg" alt="DK-BUD Damian Kasiarz – usługi ziemne i brukarskie"></a>
+      <p><b>DK-BUD Damian Kasiarz</b> – strona firmy usług ziemnych i brukarskich: zakres usług, galeria realizacji, mapa i formularz kontaktowy.</p>
+      <p><a href="https://dk-bud-kasiarz.lovable.app">Strona</a></p>
+    </td>
+  </tr>
+</table>
 
-Web app for tracking diet, calories, workouts, body measurements, progress photos and medical results. Every user has a private account, and row-level security keeps each account's data separate.
+Strony SZKOLNIAKI i DK-BUD pokazuję za zgodą klientów. Ich kod jest prywatny, bo zawiera materiały klientów.
 
-- **Live demo:** [forma-health-tracker.lovable.app](https://forma-health-tracker.lovable.app) (demo account: `demo@example.com` / `FormaDemo2026`)
-- **Code:** [kamils-wellness-journey](https://github.com/kamilos2410-glitch/kamils-wellness-journey)
-- **Stack:** React, TypeScript, TanStack Start, Tailwind CSS, Supabase
+## Technologie
 
-### SCS Web – website for my web design studio
+React · TypeScript · TanStack Start · Tailwind CSS · shadcn/ui · Supabase (PostgreSQL, Auth, Storage) · Web3Forms · Lovable
 
-[![SCS Web](images/scs-web.jpg)](https://scsweb.pl)
-
-Marketing website with service, industry and local landing pages, demo websites, a pricing calculator and a contact form.
-
-- **Live:** [scsweb.pl](https://scsweb.pl)
-- **Code:** [polskie-strony-szybko](https://github.com/kamilos2410-glitch/polskie-strony-szybko)
-- **Stack:** React, TypeScript, TanStack Start, Tailwind CSS, Web3Forms
-
-## Client websites
-
-The code of these sites stays private because it contains client materials.
-
-### SZKOLNIAKI – children's club and playroom in Grójec
-
-[![SZKOLNIAKI](images/szkolniaki.jpg)](https://szkolniakigrojec.pl)
-
-One-page website with the club's offer, a photo gallery, a map and a contact form.
-
-- **Live:** [szkolniakigrojec.pl](https://szkolniakigrojec.pl)
-
-### DK-BUD Damian Kasiarz – earthworks and paving company
-
-[![DK-BUD](images/dk-bud.jpg)](https://dk-bud-kasiarz.lovable.app)
-
-Black-and-gold one-page website with services, a gallery of completed projects, a map and a contact form.
-
-- **Live:** [dk-bud-kasiarz.lovable.app](https://dk-bud-kasiarz.lovable.app)
-
-## Contact
+## Kontakt
 
 [scsweb.pl](https://scsweb.pl) · kamil@scsweb.pl
+
+<details>
+<summary><b>English version</b></summary>
+
+### Kamil Pietraszko
+
+I build websites and web apps for small businesses, mostly with React, TypeScript and Tailwind CSS. I run [SCS Web](https://scsweb.pl), a one-person studio that makes websites for local companies in Poland.
+
+**Projects**
+
+- **Forma** – web app for tracking diet, workouts, body measurements and medical results. Every user has a private account. [Demo](https://forma-health-tracker.lovable.app) (demo account: `demo@example.com` / `FormaDemo2026`) · [Code](https://github.com/kamilos2410-glitch/kamils-wellness-journey)
+- **SCS Web** – website of my studio with service, industry and local landing pages, demo websites, a pricing calculator and a contact form. [Website](https://scsweb.pl) · [Code](https://github.com/kamilos2410-glitch/polskie-strony-szybko)
+- **SZKOLNIAKI** – website of a children's club and playroom in Grójec: offer, photo gallery, map and contact form. [Website](https://szkolniakigrojec.pl)
+- **DK-BUD Damian Kasiarz** – website of an earthworks and paving company: services, project gallery, map and contact form. [Website](https://dk-bud-kasiarz.lovable.app)
+
+The SZKOLNIAKI and DK-BUD websites are shown with the clients' permission. Their code stays private because it contains client materials.
+
+**Tech stack:** React · TypeScript · TanStack Start · Tailwind CSS · shadcn/ui · Supabase (PostgreSQL, Auth, Storage) · Web3Forms · Lovable
+
+**Contact:** [scsweb.pl](https://scsweb.pl) · kamil@scsweb.pl
+
+</details>
