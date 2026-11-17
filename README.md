@@ -9,13 +9,13 @@ Tworzę strony internetowe i aplikacje webowe dla małych firm, głównie w Reac
     <td width="50%" valign="top">
       <a href="https://forma-health-tracker.lovable.app"><img src="images/forma.jpg" alt="Forma – aplikacja do śledzenia zdrowia i treningów"></a>
       <p><b>Forma</b> – aplikacja do śledzenia diety, treningów, pomiarów ciała i wyników badań. Każdy użytkownik ma własne, prywatne konto.</p>
-      <p><a href="https://forma-health-tracker.lovable.app">Demo</a> · <a href="https://github.com/kamilos2410-glitch/kamils-wellness-journey">Kod</a><br>
+      <p><a href="https://forma-health-tracker.lovable.app">Demo</a> · <a href="https://github.com/kamilpietraszko/kamils-wellness-journey">Kod</a><br>
       Konto demo: <code>demo@example.com</code> / <code>FormaDemo2026</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://scsweb.pl"><img src="images/scs-web.jpg" alt="SCS Web – strona studia"></a>
       <p><b>SCS Web</b> – strona mojego studia: podstrony usług, branż i miast, przykładowe strony, kalkulator wyceny i formularz kontaktowy.</p>
-      <p><a href="https://scsweb.pl">Strona</a> · <a href="https://github.com/kamilos2410-glitch/polskie-strony-szybko">Kod</a></p>
+      <p><a href="https://scsweb.pl">Strona</a> · <a href="https://github.com/kamilpietraszko/polskie-strony-szybko">Kod</a></p>
     </td>
   </tr>
   <tr>
@@ -51,8 +51,8 @@ I build websites and web apps for small businesses, mostly with React, TypeScrip
 
 **Projects**
 
-- **Forma** – web app for tracking diet, workouts, body measurements and medical results. Every user has a private account. [Demo](https://forma-health-tracker.lovable.app) (demo account: `demo@example.com` / `FormaDemo2026`) · [Code](https://github.com/kamilos2410-glitch/kamils-wellness-journey)
-- **SCS Web** – website of my studio with service, industry and local landing pages, demo websites, a pricing calculator and a contact form. [Website](https://scsweb.pl) · [Code](https://github.com/kamilos2410-glitch/polskie-strony-szybko)
+- **Forma** – web app for tracking diet, workouts, body measurements and medical results. Every user has a private account. [Demo](https://forma-health-tracker.lovable.app) (demo account: `demo@example.com` / `FormaDemo2026`) · [Code](https://github.com/kamilpietraszko/kamils-wellness-journey)
+- **SCS Web** – website of my studio with service, industry and local landing pages, demo websites, a pricing calculator and a contact form. [Website](https://scsweb.pl) · [Code](https://github.com/kamilpietraszko/polskie-strony-szybko)
 - **SZKOLNIAKI** – website of a children's club and playroom in Grójec: offer, photo gallery, map and contact form. [Website](https://szkolniakigrojec.pl)
 - **DK-BUD Damian Kasiarz** – website of an earthworks and paving company: services, project gallery, map and contact form. [Website](https://dk-bud-kasiarz.lovable.app)
 
